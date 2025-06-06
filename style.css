@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(105, 39, 105);
+    width: 2000px;
+
+}
+
+.logotipo {
+    width: 300px;
+}
+main {
+width: 1880px;
+height: 500px;
+background-color: rgb(90, 163, 153);
+
+}
+.cleitin{
+    width: 500px;
+    height: 300px;
+}
+footer{
+    height: 200px;
+    display: flexbox;
+    place-items: center;
+}
